@@ -32,7 +32,7 @@ export default function TokenEnomics() {
 						</div> */}
 						<div className="w-full mb-5 px-2 text-2xl xl:text-6xl py-5 bg-yellow text-white ">
 							<p>Contract adress</p>
-							<p className=" text-sm sm:text-xl xl:text-3xl">soon </p>
+							<p className=" text-sm sm:text-xl xl:text-3xl">Ai5XtgHPiYXqQFHeYpbhAaERGFQAYH1NKxmNszHGmoon</p>
 						</div>
 					</div>
 					<div className="flex gap-5">
