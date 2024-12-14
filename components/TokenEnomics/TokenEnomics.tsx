@@ -4,7 +4,7 @@ export default function TokenEnomics() {
 	return (
 		<>
 			<div className=" bg-[#1A4027] pb-0 mt-10  text-yellow-600 text-center flex flex-col items-center">
-				<h2 className=" text-4xl mt-9 uppercase md:text-8xl font-bold">
+{/* 				<h2 className=" text-4xl mt-9 uppercase md:text-8xl font-bold">
 					TOKENOMICS
 				</h2>
 				<p className="text-white text-2xl md:text-2xl max-w-[70rem] m-2 text-justify">
@@ -21,7 +21,7 @@ export default function TokenEnomics() {
 					<span className="break-keep">
 						<span className="font-sans font-bold">0{"%"}.</span>
 					</span>{" "}
-				</p>
+				</p> */}
 				<div className="flex w-full mb-14 flex-col space-y-14  mt-14   space-x-7 justify-center items-center">
 					<div className=" w-auto ">
 						{/* <div className="w-full mb-5 px-20 text-2xl xl:text-6xl py-5 bg-yellow text-white ">
