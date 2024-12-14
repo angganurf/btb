@@ -46,7 +46,7 @@ export default function HeaderSection() {
 							<div className="flex order-1 mt-2 gap-4">
 								<Link
 									target="_blank"
-									href={"#"}
+									href={"https://x.com/bulltobillion?s=21"}
 									className="w-16 h-16 hover:scale-110 cursor-pointer -rotate-3 bg-black flex items-center justify-center"
 								>
 									<Image
