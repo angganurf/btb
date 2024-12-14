@@ -10,7 +10,7 @@ export default function Home() {
 	return (
 		<main className="bg-[#1d1d1d] min-h-screen bg-cover bg-center relative">
 			<HeaderSection />
-			{/* <TokenEnomics /> */}
+			<TokenEnomics />
 			{/* <PonkieTradingPove /> */}
 			<SocialLink />
 		</main>
